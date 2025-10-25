@@ -147,14 +147,3 @@ Check that `audio_responses/test.mp3` exists afterwards.
 
 Feel free to open issues or PRs. Small improvements that help reproducibility (e.g., a `requirements.lock`, a small setup script, or sample env file) are welcome.
 
-## License
-
-This repository does not include an explicit license file. Add a license (e.g., MIT) if you plan to publish or share.
-
----
-If you'd like, I can also:
-
-- add a small `run.ps1` wrapper to simplify starting the app with environment variables preloaded;
-- add a short script to auto-detect and suggest the `mic_index` value and update `speech_to_text.py` automatically.
-
-(README generated from project source files: `main.py`, `ai_agent.py`, `tools.py`, `speech_to_speech.py`, `speech_to_text.py`, and `text_to_speech.py`.)
